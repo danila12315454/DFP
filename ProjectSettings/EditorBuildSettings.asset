@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scens/Preload.unity
+    guid: 7bc705c2e1c30bd4c94940d30a6639b1
+  - enabled: 1
+    path: Assets/Scens/MainMenu.unity
+    guid: 0f0b90894867c24499573ababe3df5a4
+  - enabled: 1
+    path: Assets/Scens/MenuLevl.unity
+    guid: 1dad079ee115fa44b9772af88cb09050
+  - enabled: 1
+    path: Assets/Scens/Levl_0.unity
+    guid: 7778a3662267ee04ebf357f9fadef9ae
+  - enabled: 1
+    path: Assets/Scens/Levl_1.unity
+    guid: 004064c608009ac4cb190e3511a99be2
+  - enabled: 1
+    path: Assets/Scens/Levl_2.unity
+    guid: 320c47e443ea96e4aae4891eaa89d8e4
+  - enabled: 1
+    path: Assets/Scens/Levl_3.unity
+    guid: 243847bb016c29f4b9d002b78a7ddcc7
+  - enabled: 1
+    path: Assets/Scens/Levl_4.unity
+    guid: 50b40d51a39fd7043a8ecc925b6e9735
+  m_configObjects: {}
